@@ -1,0 +1,14 @@
+.monochrome {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.yello {
+    background-color: rgb(231, 231, 74);
+}
+
+button {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+    border-color: silver;
+}
